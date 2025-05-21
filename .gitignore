@@ -1,0 +1,16 @@
+# Ignore compiled CSS files
+*.css
+*.css.map
+
+# Ignore Sass cache
+.sass-cache/
+
+# Ignore node-sass or Dart Sass cache (if exists)
+.cache/
+
+# If using a build directory
+/dist/
+/build/
+
+# Optional: ignore local environment files
+.env
